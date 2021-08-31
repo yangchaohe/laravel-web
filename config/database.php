@@ -17,6 +17,7 @@ return [
     |
     */
 
+    // 'default' => env('DB_CONNECTION', 'mysql'),
     'default' => $db_config['connection'],
 
     /*
